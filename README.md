@@ -1,7 +1,9 @@
 <div align="center">
   <h2>Hi there 👋🏼</h2>
-  <h3>I'm Nicholas, a full stack software engineer from Minneapolis, MN with a wide range of experience creating innovative applications. I am a fast learner with an analytical, detail-oriented, and logical side that excels in communication and collaboration. </h3>
+  <h3>I'm Nicholas, a full-stack software engineer from Minneapolis, MN with a wide range of experience creating innovative applications. I am a fast learner with an analytical, detail-oriented, and logical side that excels in communication and collaboration. </h3>
   <img align="center" src="https://github.com/njmanning212/njman-portfolio/blob/main/assets/images/full-bg-image.jpg"/>
+  <h4>
+    First and foremost I am the luckiest husband and father in the world. 
   <h4>
     I am a proud graduate of General Assembly, where I received a Software Engineering Immersive Certificate, after nearly a decade in healthcare as a Doctor of Physical Therapy. 
   </h4>
