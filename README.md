@@ -5,7 +5,6 @@
   <h4>
     I am a proud graduate of General Assembly, where I received a Software Engineering Immersive Certificate, after nearly a decade in healthcare as a Doctor of Physical Therapy. 
   </h4>
-  <br>
   <h4>
     I have a passion for tackling challenges that have a meaningful and positive effect on people's lives. Drawing from my background in healthcare, I possess a distinctive combination of technical skills and a focus on the human element, allowing me to develop effective and user-centered solutions.
   </h4>
