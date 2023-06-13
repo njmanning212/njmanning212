@@ -13,10 +13,10 @@
   <div>
     <h3>Reach out:</h3>
     <br>
-    <a href="https://nicholas-manning-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-Personal_Website-000000?style=flat-square&logo=Coderwall&logoColor=white" />  </a>
-    <a href="https://www.linkedin.com/in/nicholas-manning/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
-    <a href="https://github.com/njmanning212"><img src="https://img.shields.io/github/followers/daniellecolucci?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />  </a>
-    <a href="mailto: njmanning212@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />  </a>
+    <a href="https://nicholas-manning-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Personal_Website-000000?style=flat-square&logo=Coderwall&logoColor=white" />  </a>
+    <a href="https://www.linkedin.com/in/nicholas-manning/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
+    <a href="https://github.com/njmanning212" target="_blank"><img src="https://img.shields.io/github/followers/daniellecolucci?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />  </a>
+    <a href="mailto: njmanning212@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />  </a>
   </div>
   <hr>
   <div>
